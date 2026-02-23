@@ -5,8 +5,7 @@
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 🔗 View Dashboard: https://docs.google.com/spreadsheets/d/1OPG56rY341i8xQi1yxRfrePz6YbYlRXcOnK7P4IUJsM/edit?usp=drive_link
 
-🔗 View Raw Data: https://docs.google.com/spreadsheets/d/1Li77L2ujye-SDFoD9O80ZSMLEgISBs-wR5iZw51ZP-o/edit?usp=sharing
-
+🔗 View Raw Data: 
 
 This project develops an interactive CRM sales dashboard for Maven Tech to provide visibility into team performance, pipeline health, and revenue trends across regions, managers, and sales agents.
 
