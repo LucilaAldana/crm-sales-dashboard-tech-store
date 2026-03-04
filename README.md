@@ -3,6 +3,9 @@
 # Maven Tech's CRM Dashboard
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
+
+📄 Report available in: English - Spanish
+
 🔗 View Dashboard: https://docs.google.com/spreadsheets/d/1OPG56rY341i8xQi1yxRfrePz6YbYlRXcOnK7P4IUJsM/edit?usp=drive_link
 
 🔗 View Raw Data: https://docs.google.com/spreadsheets/d/1pLXnF9eUFVEgUNRjEZYNaZzSPgKbOau52p5Ies_r4JQ/edit?usp=sharing
