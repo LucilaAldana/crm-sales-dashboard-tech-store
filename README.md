@@ -36,4 +36,4 @@ The project also includes a structured data model and protected formula logic to
 
 This analysis simulates a real-world CRM implementation scenario where sales operations, revenue management, and account segmentation are integrated into a centralized reporting system to support data-driven decision-making.
 
-Tools Used: Google Sheets / Dashboard Design / KPI Development / Sales Funnel Analysis / CRM Data Modeling / Data Visualization
+Tools Used: Google Sheets / Generative AI / Dashboard Design / KPI Development / Sales Funnel Analysis / CRM Data Modeling / Data Visualization
